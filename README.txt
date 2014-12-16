@@ -3,6 +3,11 @@ Gravity_Shift
 
 Gravity shift plugin for minecraft
 
+Instructions:
+- Download Zip file from github
+- Extract GravityShift.jar from the Zip file
+- Copy the jar file into the plugins folder for minecraft
+
 ==============
 Ver 1.5
 
